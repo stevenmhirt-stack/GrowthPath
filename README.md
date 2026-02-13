@@ -1,3 +1,0 @@
-# GrowthPath
-
-Professional Development Platform
